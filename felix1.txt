@@ -10,3 +10,4 @@ VI  vim   WORD
 INSERT COMMAND
 
 commando 5
+commando 6
