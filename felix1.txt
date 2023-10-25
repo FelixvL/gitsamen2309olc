@@ -3,3 +3,10 @@ Dit is mijn eerste regel
 Dit is regel 2
 
 Dit is regel 3
+
+VI  vim   WORD
+
+
+INSERT COMMAND
+
+commando 5
