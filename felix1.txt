@@ -11,3 +11,4 @@ INSERT COMMAND
 
 commando 5
 commando 6
+commando 7
